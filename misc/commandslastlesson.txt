@@ -1,0 +1,595 @@
+    1  su - academia
+    2  pwd -L
+    3  cd /dev
+    4  pwd
+    5  cd /cd
+    6  cd
+    7  pwd
+    8  cat /dev/in
+    9  sudo su-
+   10  sudo cat /dev/input/mouse0 
+   11  echo hola
+   12  echo SPATH
+   13  echo $PATH
+   14  VAR=1
+   15  echo $VAR
+   16  var2=2
+   17  echo $var2
+   18  export var3=123
+   19  terminator
+   20  tail -f .bash_history
+   21  cd /tmp
+   22  mkdir descargas
+   23  ls
+   24  tail -f .bash_history
+   25  cd /descargas
+   26  cd descargas
+   27  vim test.txt
+   28  cd ..
+   29  history
+   30  cd bash.rc
+   31  cd /etc/bash.rc
+   32  cd /etc/bashrc
+   33  cat ./bash.bashrc
+   34  cat .bash.bashrc
+   35  pwd
+   36  cd 
+   37  ls -la
+   38  cat .bashrc 
+   39  edia failed. A possible reason is that one of the media is attached to a running VM.
+   40  man ls
+   41  man grep
+   42  les history.txt
+   43  less history.txt
+   44  man -k pass
+   45  ls --helṕ
+   46  ls --help
+   47  cd /usr/sgare/doc
+   48  cd /usr/share/doc
+   49  ls
+   50  cat perl-base
+   51  cd /perl-base
+   52  cd perl-base
+   53  ls
+   54  q! <INTRO>
+   55  <ESC>
+   56  clear
+   57  vimtutor
+   58  vim tutor
+   59  vimtutor
+   60  vim tutor
+   61  vimtutor
+   62  ll
+   63  bzip2 -v examples.desktop 
+   64  cd
+   65  clear
+   66  /var/log$ cd lightdm/
+   67  /var/log/lightdm/$ ll
+   68  cd examples
+   69  ls -l
+   70  clear
+   71  touch file
+   72  id
+   73  newgrp web-admin
+   74  clear
+   75  ls ~
+   76  date >> /tmp/home.txt
+   77  find /etc/ -name passwd 2> /tmp/eror.txt
+   78  htop
+   79  sudo apt install htop
+   80  su -user1
+   81  su - user1
+   82  sudo add user1
+   83  su - academia 
+   84  cd /tmp/
+   85  dd if=/dev/zero of=data.out count=1M bs=10
+   86  ls
+   87  cd ~
+   88  less
+   89  ls
+   90  clear
+   91  ip addr
+   92  ls
+   93  touch test123
+   94  su - academia 
+   95  ip addr
+   96  nstat ltua | less
+   97  nstat | less
+   98  CLEAR
+   99  nstat latun | grep 220
+  100  nstat latun | grep telnet
+  101  nstat -latun | grep telnet
+  102  nstat -latun 
+  103  nstat -atun 
+  104  nstat | grep 220
+  105  clear
+  106  telnet 10.124.18.95
+  107  clear
+  108  exit
+  109  mail user1
+  110  mail
+  111  clear
+  112  route
+  113  ip route list
+  114  cat /etc/services | less
+  115  sudo apt install ftpd
+  116  sudo apt-get install ftpd
+  117  su - academia 
+  118  clear
+  119  su - academia 
+  120  su - academia
+  121  su - academia 
+  122  poweroff
+  123  man fdisk
+  124  exit
+  125  echo VAR1
+  126  exit
+  127  echo VAR1
+  128  echo $var 1
+  129  echo $VAR1
+  130  otro VAR=casa
+  131  otro_VAR=casa
+  132  exit
+  133  echo hola
+  134  pwd
+  135  ls
+  136  etc
+  137  clear
+  138  alias my_year="cal 2017"
+  139  my_year
+  140  dpkg --get--selections | grep linux
+  141  dpkg --get--selections|grep linux
+  142  dpkg --get--selections | grep linux
+  143  dpkg --get-selections | grep linux
+  144  which ls
+  145  ls -l 'which ls'
+  146  ls /home
+  147  ls -l
+  148  ls -lh
+  149  ls -l `which ls`
+  150  history
+  151  man ls
+  152  uname
+  153  uname -a
+  154  uname -n
+  155  uname -n -o
+  156  pwd
+  157  ls
+  158  ls videos
+  159  ls mbox
+  160  VAR1=caso
+  161  echo$VAR1
+  162  VAR1=otro
+  163  echo$VAR1
+  164  echo Este es $VAR1 caso
+  165  echo 'Este es $VAR1 caso?
+  166  echo 'Este es $VAR1 caso?
+  167  echo 'Este es $VAR1 caso'
+  168  ip -4 addr
+  169  VAR1=5
+  170  VAR2=otro
+  171  echo $VAR1 esta la salida $VAR2 en el $mi_var
+  172  mi_VAR=caso
+  173  mi_var=caso
+  174  echo $VAR1 esta la salida $VAR2 en el $mi_var
+  175  bash
+  176  export VAR1
+  177  export VAR2
+  178  export mi_var
+  179  bash
+  180  echo otro_VAR
+  181  exit
+  182  c
+  183  head 
+  184  env | less
+  185  env | grep VAR
+  186  env | grep mi_VAR
+  187  set | grep mi_VAR
+  188  set | grep VAR
+  189  set | grep VAR -i
+  190  env | less
+  191  pwd
+  192  mkdir $HOME/prueba1
+  193  pwd
+  194  cd /etc/apt
+  195  mkdir$HOME/prueba1/prueba2
+  196  mkdir $HOME/prueba1/prueba2
+  197  ls $home
+  198  ls $HOME
+  199  ls $HOME/prueba1
+  200  cd home
+  201  cd..
+  202  cd
+  203  pwd
+  204  nano 
+  205  mv progra1.sh /tmp
+  206  ./progra1.sh
+  207  ls
+  208  cd /tmp
+  209  ls
+  210  ./progra1.sh
+  211  chmod 750 progra1.sh
+  212  ./progra1.sh
+  213  nano progra1.sh
+  214  mv progra1.sh programa_identificador.sh
+  215  programa-identificador.sh
+  216  programa_identificador.sh
+  217  ls
+  218  programa_identificador.sh
+  219  mv programa_identificador.sh proga1.sh
+  220  proga1.sh
+  221  ls
+  222  nano proga1.sh
+  223  proga1.sh
+  224  ./proga1.sh
+  225  echo $path
+  226  echo $PATH
+  227  cd
+  228  ls
+  229  mk dir bin
+  230  ls
+  231  mkdir bin
+  232  ls
+  233  cp /tmp/proga1.sh bin/
+  234  pro
+  235  ls bin
+  236  mv bin/progra1.sh bin/prog1
+  237  ls bin
+  238  mv bin/proga1 bin/prog1
+  239  mv bin/proga1.sh bin/prog1
+  240  ls bin
+  241  prog1
+  242  nano .bashrc
+  243  cd /tmp
+  244  dd if=/dev/zero of=/tmp/data.out bs=1 coutn=12
+  245  dd if=/dev/zero of=/tmp/data.out bs=1 count=12
+  246  split -b 2 data.out
+  247  ls
+  248  cat xa* > data2.out
+  249  ls
+  250  ls -l
+  251  split -n 4  data.out pedazo.
+  252  ls -l
+  253  cp .bash_history Documentos/history-clase1.txt
+  254  sudo apt vim
+  255  --help
+  256  man ls
+  257  man ln
+  258  su - academia
+  259  ls -l file-*
+  260  cd test
+  261  ls
+  262  vim file1
+  263  id
+  264  man disk
+  265  clear
+  266  man fdisk
+  267  su - academia
+  268  cd /tmp/
+  269  history 
+  270  git clone https://github.com/adrespi/LXS1_Adriel.Espinoza.git
+  271  ls
+  272  pwd
+  273  ls
+  274  find . -name Decargas
+  275  find . -name Descargas
+  276  locate file-
+  277  locate . - namefile-
+  278  locate . - name file-
+  279  find . -name 'Des'*
+  280  touch Descuentos
+  281  find . -name 'Des'*
+  282  ls
+  283  find . -name 'Des*'
+  284  whereis Dscargas
+  285  whereis Descargas
+  286  whereis -b Descargas
+  287  man cut
+  288  which Descargas
+  289  whereis -b passwd
+  290  whereis Descargas
+  291  which -a ping
+  292  which -a Descargas
+  293  which -a ping
+  294  ls
+  295  tree
+  296  test
+  297  ls
+  298  mkdir test
+  299  cd test
+  300  vim file1
+  301  git
+  302  which git
+  303  locate giyt
+  304  cd
+  305  sudo apt-get install git
+  306  su - academia
+  307  git config --global user.name "Adriel Espinoza"
+  308  git config --global user.mail "adrespi18@gmail.com"
+  309  cat ~/.gitconfig
+  310  cd test
+  311  ls
+  312  rm file*
+  313  ls
+  314  mkdir src
+  315  mkdir docs
+  316  mkdir misc
+  317  mkdir tools
+  318  touch README.md
+  319  tree
+  320  vim .gitignore
+  321  cat .gitignore
+  322  vim .gitignore 
+  323  touch {docs,src,misc,tools}/.gitignore
+  324  tree -a
+  325  rm .file.swp
+  326  tree
+  327  tree -a
+  328  jobs
+  329  fg
+  330  jobs
+  331  fg
+  332  jobs
+  333  fg
+  334  jobs
+  335  tree -a
+  336  echo '*.swp' >> .gitignore
+  337  cat .gitignore
+  338  git init
+  339  tree .git
+  340  git add --all
+  341  git status
+  342  git commit -m "Inicializacion del Repo de Linux"
+  343  git config --global user.email "adrespi18@gmail.com"
+  344  git commit -m "Inicializacion del Repo de Linux"
+  345  git log
+  346  ifconfig > misc/interfaces
+  347  dmesg > misc/kernel
+  348  df -lh > docs/espacios
+  349  tree -a
+  350  git status
+  351  git add misc/interfaces
+  352  git add docs/espacios
+  353  git status
+  354  git commit -m "Agrego Archivos de espacios e interfaces"
+  355  git log
+  356  cp /etc/apt/sources.list misc/
+  357  git status
+  358  vim docs/espacios 
+  359  git status
+  360  git diff docs/espacios
+  361  git add docs/espacios 
+  362  git add misc/kernel 
+  363  git status 
+  364  git commit -m "Modificacion del header de espacios y agrego archivo de Kernel"
+  365  git log
+  366  git remote add origin https://github.com/adrespi/LXS1_Adriel.Espinoza.git
+  367  git remote -v
+  368  git push -u origin master
+  369  tree
+  370  history 
+  371  git add misc/sources.list
+  372  history > docs/History.Commands
+  373  git log
+  374  git status
+  375  git add docs/History.Commands 
+  376  git status
+  377  git push -u origin master
+  378  tree
+  379  cd test
+  380  cd misc/
+  381  ls
+  382  history > History_Commands_Lessons2.txt
+  383  git status
+  384  cd test
+  385  ls
+  386  cd misc/
+  387  history > History.Commands_Lessons2.txt
+  388  git status
+  389  cd ..
+  390  git status 
+  391  git add misc/History.Commands_Lessons2.txt 
+  392  git commit -m "History de clases 2"
+  393  git push origin master 
+  394  ps -u estudiante
+  395  ps -u estudiantes
+  396  kill 27008
+  397  grep root /etc/passwd
+  398  grep ^root /etc/passwd
+  399  cd /tmp/
+  400  touch test/{rot.ret,reet,root}
+  401  mkdir touch test/{rot.ret,reet,root}
+  402  mkdir -p touch test/{rot.ret,reet,root}
+  403  tree
+  404  rm -r touch test/{rot.ret,reet,root}
+  405  tree
+  406  rm -r touch test/{rot,ret,reet,root}
+  407  mkdir -p touch test/{rot,ret,reet,root}
+  408  tree
+  409  rm -r touch test/{rot,ret,reet,root}
+  410  mkdir test; touch test/{rot,ret,reet,root}
+  411  tree
+  412  ls test | grep 'r[oe]*t'
+  413  cd test
+  414  ls
+  415  ls -l
+  416  ..
+  417  cd tmp
+  418  cd /tmp
+  419  echo 'Does a MINI  need a tyre or a tire?' | grep -E 'tyre|tire'
+  420  echo 'Does a MINI  need a tyre or a tire?' | grep -E 'tyre=tire'
+  421  echo 'Does a MINI  need a tyre or a tire?' | grep -E 'tyre*tire'
+  422  echo 'Does a MINI  need a tyre or a tire?' | grep -E 'tyre!tire'
+  423  clear
+  424  tress
+  425  tree
+  426  cd test
+  427  touch Reet
+  428  tree
+  429  grep -iw reet
+  430  grep -iw 'reet'
+  431  grep -wi 'reet'
+  432  grep -wi test/'reet'
+  433  grep -WI test/'reet'
+  434  grep -Wi test/'reet'
+  435  clear
+  436  find / > /tmp/out.log 2> /tmp/out.err
+  437  date
+  438  date | tee timer.txt
+  439  cat timer.txt
+  440  date | tee timer.txt; sleep 5; date | tee -a timer.txt
+  441  cat timer.txt
+  442  date | tee timer.txt; sleep 5; date | tee -a timer.txt
+  443  ls /
+  444  ls / | grep -E '*\.*'
+  445  ls / | grep -v -E '*\.*'
+  446  ls / | grep -v -E '[a-zA-Z]*\.[a-zA-Z]*|[a-zA-Z\]*\+[a-zA-Z]*'
+  447  ls / | grep -v -E '[a-zA-Z]*\.[a-zA-Z]*|[a-zA-Z]*\+[a-zA-Z]*'
+  448  ls -l / | grep -v -E '[a-zA-Z]*\.[a-zA-Z]*|[a-zA-Z]*\+[a-zA-Z]*'
+  449  ls -l / | grep -v -E '[a-zA-Z]*\.[a-zA-Z]*|[a-zA-Z]*\+[a-zA-Z]*' > /tmp/Folder.txt
+  450  ls / | grep -v -E '[a-zA-Z]*\.[a-zA-Z]*|[a-zA-Z]*\+[a-zA-Z]*' > /tmp/folder.txt
+  451  cat folder.txt
+  452  cat Folder.txt
+  453  tree
+  454  ls / | grep -v -E '[a-zA-Z]*\.[a-zA-Z]*|[a-zA-Z]*\+[a-zA-Z]*' > Folder.txt
+  455  tree
+  456  ls -l / | grep -v -E '[a-zA-Z]*\.[a-zA-Z]*|[a-zA-Z]*\+[a-zA-Z]*' > Folder.txt
+  457  cat Folder.txt
+  458  ls / | grep -v -E '[a-zA-Z]*\.[a-zA-Z]*|[a-zA-Z]*\+[a-zA-Z]*' > Folder.txt
+  459  cat Folder.txt
+  460  cat ../Folder.txt | xargs mkdir
+  461  cat ../Folder.txt | xargs 
+  462  ls / | grep -v -E '[a-zA-Z]*\.[a-zA-Z]*|[a-zA-Z]*\+[a-zA-Z]*' > Folder.txt
+  463  cat Folder.txt
+  464  cat ../Folder.txt | xargs 
+  465  cat ../Folder.txt
+  466  ls / | grep -v -E '[a-zA-Z]*\.[a-zA-Z]*|[a-zA-Z]*\+[a-zA-Z]*' > xargs mkdir
+  467  ls / | grep -v -E '*\.|*\+'
+  468  touch lista-de-archivos.txt
+  469  echo {file1\nfile2\nfile3} > lista-de-archivos.txt
+  470  cat lista-de-archivos.txt 
+  471  echo file1\nfile2\nfile3 > lista-de-archivos.txt
+  472  cat lista-de-archivos.txt 
+  473  printf 'File1 \nFile2 \nFile3' > lista-de-archivos.txt
+  474  cat lista-de-archivos.txt 
+  475  printf 'File1 \nFile2 \nFile3' > l ' lista-de-archivos.txt
+  476  cat lista-de-archivos.txt 
+  477  printf 'File1 \nFile2 \nFile3  \n' > lista-de-archivos.txt
+  478  cat lista-de-archivos.txt 
+  479  yes curikitaka si
+  480  jobs
+  481  ping localhost
+  482  jobs
+  483  vim /tmp/algo.txt
+  484  jobs
+  485  bg 1
+  486  ps -u estudiantes
+  487  yes dale a tu cuerpo alegría macarena > /dev/null 
+  488  jobs
+  489  bg 3
+  490  jobs
+  491  ps -u estudiantes
+  492  kill 27094
+  493  jobs
+  494  kill %2
+  495  jobs
+  496  fg 2
+  497  mal kill
+  498  man kill
+  499  jobs
+  500  ping localhost > /dev/null &
+  501  top
+  502  htop
+  503  sudo su -academia
+  504  su academia
+  505  jobs
+  506  kill %2
+  507  jobs
+  508  fg 2
+  509  kill -9  %2
+  510  jobs
+  511  htop
+  512  free -lh
+  513  uptime
+  514  cat /proc/cpuinfo 
+  515  man ps
+  516  echo 'echo hello' > test.sh
+  517  echo 'sleep 100' ZZ test.sh
+  518  echo 'sleep 100' >> test.sh
+  519  echo 'echo goodbye' >> test.sh
+  520  chmod a+x test.sh
+  521  ./test.sh
+  522  ./test.sh &
+  523  jobs
+  524  kill -9 %1
+  525  sleep 100 &
+  526  jobs
+  527  killall sleep
+  528  sudo su -
+  529  su academia
+  530  jobs
+  531  kill -9 %1
+  532  ssh-keygen -t rsa
+  533  cd .ssh
+  534  ls
+  535  ~
+  536  cd home
+  537  cd .ssh
+  538  ~/
+  539  cd
+  540  cd .ssh
+  541  cat id_rsa
+  542  ls
+  543  cat id_rsa.pub
+  544  #ssh-copy-id (ip del end device)
+  545  ssh-copy-id 10.124.18.221
+  546  ssh-copy-id user@10.124.18.221
+  547  ssh-copy-id user1@10.124.18.221
+  548  ssh 10.124.18.224 -l user1
+  549  ssh 10.124.18.221 -l user1
+  550  history > History-commands29
+  551  ls
+  552  git clone https://github.com/adrespi/LXS1_Adriel.Espinoza.git
+  553  cd misc
+  554  ls
+  555  cd LSX_Adriel.Espinoza/
+  556  cd LSX1_Adriel.Espinoza/
+  557  cd Lxs1_Adriel.Espinoza/
+  558  cd LXS1_Adriel.Espinoza/
+  559  cd misc
+  560  history > History.Commands_28
+  561  git status
+  562  git add History.Commands_28 
+  563  status
+  564  commit -m "History Semana 3"
+  565  git push origin master
+  566  status
+  567  git status
+  568  git commit -m "History Semana 3"
+  569  git status
+  570  git commit -m "History Semana 3"
+  571  git push origin master
+  572  cd /var/log
+  573  ls
+  574  cd /tmp/
+  575  cd permisos/
+  576  ls -l
+  577  id
+  578  exit
+  579  su - academia
+  580  id
+  581  cd /tmp/
+  582  touch file-1
+  583  ls -ñ
+  584  ls -l
+  585  id
+  586  newgrp web-admin
+  587  git status
+  588  history
+  589  git init
+  590  git clone https://github.com/adrespi/LXS1_Adriel.Espinoza.git
+  591  tree
+  592  cd LXS1_Adriel.Espinoza/
+  593  misc
+  594  cd misc
+  595  history > commandslastlesson.txt
